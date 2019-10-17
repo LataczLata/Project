@@ -1,1 +1,3 @@
-git remote add origin remote https://github.com/AdamBalski/Spacesimulation
+git remote add origin https://github.com/AdamBalski/Spacesimulation.git
+git push -u origin master
+
